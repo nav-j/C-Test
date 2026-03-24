@@ -433,7 +433,3 @@ These include operators like:
 ### Conclusion
 
 Operators are very important in C because they help perform calculations, comparisons, decisions, and value assignments. Without operators, writing programs would not be possible.
-
----
-
-You can save this as `README.md`.
