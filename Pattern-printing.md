@@ -1,10 +1,10 @@
-# ⭐ C Star Pattern Programs (For Loop)
+#  C Star Pattern Programs (For Loop)
 
 ---
 
-## 🔴 Task 1: Right Triangle Star Pattern
+##  Task 1: Right Triangle Star Pattern
 
-### 🎯 Task
+###  Task
 
 Print the pattern:
 
@@ -16,7 +16,7 @@ Print the pattern:
 *****
 ```
 
-### ✅ Solution
+###  Solution
 
 ```c
 #include <stdio.h>
@@ -35,7 +35,7 @@ int main() {
 }
 ```
 
-### 💻 Output
+###  Output
 
 ```
 *
