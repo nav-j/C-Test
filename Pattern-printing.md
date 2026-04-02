@@ -47,9 +47,9 @@ int main() {
 
 ---
 
-## 🔴 Task 2: Inverted Star Pattern
+##  Task 2: Inverted Star Pattern
 
-### 🎯 Task
+###  Task
 
 Print:
 
@@ -61,7 +61,7 @@ Print:
 *
 ```
 
-### ✅ Solution
+###  Solution
 
 ```c
 #include <stdio.h>
@@ -80,7 +80,7 @@ int main() {
 }
 ```
 
-### 💻 Output
+### Output
 
 ```
 *****
