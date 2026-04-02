@@ -250,7 +250,7 @@ int main() {
 }
 ```
 
-### 💻 Output
+### Output
 
 ```
     *
