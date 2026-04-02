@@ -92,9 +92,9 @@ int main() {
 
 ---
 
-## 🔴 Task 3: Pyramid Star Pattern
+##  Task 3: Pyramid Star Pattern
 
-### 🎯 Task
+###  Task
 
 Print:
 
@@ -106,7 +106,7 @@ Print:
 *********
 ```
 
-### ✅ Solution
+###  Solution
 
 ```c
 #include <stdio.h>
@@ -133,7 +133,7 @@ int main() {
 }
 ```
 
-### 💻 Output
+###  Output
 
 ```
     *
@@ -145,9 +145,9 @@ int main() {
 
 ---
 
-## 🔴 Task 4: Inverted Pyramid
+##  Task 4: Inverted Pyramid
 
-### 🎯 Task
+### Task
 
 Print:
 
@@ -159,7 +159,7 @@ Print:
     *
 ```
 
-### ✅ Solution
+### Solution
 
 ```c
 #include <stdio.h>
@@ -186,7 +186,7 @@ int main() {
 }
 ```
 
-### 💻 Output
+###  Output
 
 ```
 *********
@@ -198,9 +198,9 @@ int main() {
 
 ---
 
-## 🔥 Task 5: Diamond Pattern
+##  Task 5: Diamond Pattern
 
-### 🎯 Task
+###  Task
 
 Print:
 
@@ -216,7 +216,7 @@ Print:
     *
 ```
 
-### ✅ Solution
+### Solution
 
 ```c
 #include <stdio.h>
