@@ -226,17 +226,9 @@ int main() {
 }
 ```
 
-### 📌 Sample Output:
+###  Sample Output:
 
 ```
 Enter a number: 4567
 Number of digits = 4
 ```
-
----
-
-If you want, I can also create:
-✅ **Practice worksheet (no solutions)**
-✅ **MCQs on while loop**
-✅ **Pattern-based while loop questions (stars, numbers)**
-Just tell me 👍
