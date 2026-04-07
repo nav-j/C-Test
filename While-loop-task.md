@@ -1,12 +1,12 @@
 
 
-## 🔹 Task 1: Print numbers from 1 to 10
+##  Task 1: Print numbers from 1 to 10
 
-### 👉 Problem:
+###  Problem:
 
 Write a program to print numbers from 1 to 10 using a `while` loop.
 
-### ✅ Solution:
+###  Solution:
 
 ```c
 #include <stdio.h>
@@ -23,7 +23,7 @@ int main() {
 }
 ```
 
-### 📌 Output:
+###  Output:
 
 ```
 1
@@ -40,13 +40,13 @@ int main() {
 
 ---
 
-## 🔹 Task 2: Print even numbers from 1 to 20
+##  Task 2: Print even numbers from 1 to 20
 
-### 👉 Problem:
+###  Problem:
 
 Print all even numbers between 1 and 20.
 
-### ✅ Solution:
+###  Solution:
 
 ```c
 #include <stdio.h>
@@ -63,7 +63,7 @@ int main() {
 }
 ```
 
-### 📌 Output:
+###  Output:
 
 ```
 2
@@ -80,13 +80,13 @@ int main() {
 
 ---
 
-## 🔹 Task 3: Find sum of first N natural numbers
+##  Task 3: Find sum of first N natural numbers
 
-### 👉 Problem:
+###  Problem:
 
 Take a number `N` from the user and find the sum from 1 to N.
 
-### ✅ Solution:
+###  Solution:
 
 ```c
 #include <stdio.h>
@@ -108,7 +108,7 @@ int main() {
 }
 ```
 
-### 📌 Sample Output:
+###  Sample Output:
 
 ```
 Enter a number: 5
@@ -117,13 +117,13 @@ Sum = 15
 
 ---
 
-## 🔹 Task 4: Reverse a number
+##  Task 4: Reverse a number
 
-### 👉 Problem:
+###  Problem:
 
 Reverse a number entered by the user.
 
-### ✅ Solution:
+###  Solution:
 
 ```c
 #include <stdio.h>
@@ -146,7 +146,7 @@ int main() {
 }
 ```
 
-### 📌 Sample Output:
+###  Sample Output:
 
 ```
 Enter a number: 123
@@ -155,13 +155,13 @@ Reversed Number = 321
 
 ---
 
-## 🔹 Task 5: Check palindrome number
+##  Task 5: Check palindrome number
 
-### 👉 Problem:
+###  Problem:
 
 Check whether a number is a palindrome (same forward and backward).
 
-### ✅ Solution:
+###  Solution:
 
 ```c
 #include <stdio.h>
@@ -189,7 +189,7 @@ int main() {
 }
 ```
 
-### 📌 Sample Output:
+###  Sample Output:
 
 ```
 Enter a number: 121
@@ -198,13 +198,13 @@ Palindrome Number
 
 ---
 
-## 🔹 Task 6: Count digits in a number
+##  Task 6: Count digits in a number
 
-### 👉 Problem:
+###  Problem:
 
 Count how many digits are in a number.
 
-### ✅ Solution:
+###  Solution:
 
 ```c
 #include <stdio.h>
